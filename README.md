@@ -1,6 +1,6 @@
 <div align="center">
 
-![изображение](https://github.com/frizik1337/MBR-Recovery/assets/124034286/97b3758a-3f79-4bf9-b02b-966d4c32dcdb)
+![Image alt](https://raw.githubusercontent.com/frizik1337/MBR-Recovery/main/img/MBR%20Recovery.png)
 
 
 # MBR Recovery
