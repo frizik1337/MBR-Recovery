@@ -30,7 +30,8 @@ MBR Recovery - это небольшая утилита, которая позв
 <div align="center">
 
 ### © Frizik1337, 2023
-![Image alt](https://raw.githubusercontent.com/frizik1337/MBR-Recovery/main/img/MR%20Main%20menu.png)
+![Image alt]![изображение](https://github.com/frizik1337/MBR-Recovery/assets/124034286/d9b476c5-6365-424a-a835-22035a406549)
+)
 
 </div>
 
