@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/frizik1337/MBR-Recovery/main/img/MBR%20Recovery.png" alt="MBR Recovery">
   <h1>MBR Recovery</h1>
-  <p>Простое резервное копирование и восстановление MBR в один клик.</p>
+  <p>Делайте резервное копирование и восстановление MBR в один клик.</p>
 </div>
 
 <div align="center">
