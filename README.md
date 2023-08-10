@@ -4,10 +4,14 @@
   <p>Простое резервное копирование и восстановление MBR в один клик.</p>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Programming%20Language-C%23-blue" alt="C# Programming Language">
+  <img src="https://img.shields.io/badge/.NET%20Framework-4.8-brightgreen" alt=".NET Framework 4.8">
+</div>
+
 ## О программе
 
 **MBR Recovery** - это небольшая утилита, которая позволяет делать резервное копирование и восстанавливать MBR в один клик.
-Приложение написано на ![C#](https://img.shields.io/badge/Programming%20Language-C%23-blue) и использует ![.NET Framework 4.8](https://img.shields.io/badge/.NET%20Framework-4.8-brightgreen).
 
 Основные возможности:
 - Создание резервной копии MBR.
@@ -18,10 +22,6 @@
 ## Поддержать автора
 
 Если вам нравится программа, вы можете [поддержать автора](https://www.donationalerts.com/r/frizik1337d) ❤️
-
-## Благодарности
-
-[icon-icons.com](https://icon-icons.com/ru/%D0%B7%D0%BD%D0%B0%D1%87%D0%BE%D0%BA/%D0%BE%D1%84%D0%B8%D1%81-%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82-%D0%BE%D1%82%D0%B2%D0%B5%D1%80%D1%82%D0%BA%D0%B8-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%B3%D0%B0%D0%B5%D1%87%D0%BD%D1%8B%D0%B9-%D0%BA%D0%BB%D1%8E%D1%87/107766) за предоставленную иконку.
 
 ## Связь с разработчиком
 
