@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/badge/Code%20Status-Closed-brightred" alt="Closed Source">
 </div>
 
+<div align="center">
+  <a href="README.ru.md">Русская версия</a> | <a href="README.md">English Version</a>
+</div>
+
 ## О программе
 
 **MBR Recovery** - это небольшая утилита, которая позволяет делать резервное копирование и восстанавливать MBR в один клик.
