@@ -5,6 +5,10 @@
 </div>
 
 <div align="center">
+  <a href="README.ru.md">Русская версия</a> | <a href="README.md">English Version</a>
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/.NET%20Framework-4.8-brightgreen" alt=".NET Framework 4.8">
   <img src="https://img.shields.io/badge/Code%20Status-Closed-brightred" alt="Closed Source">
 </div>
