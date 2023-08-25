@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="README.ru.md">Русская версия</a> | <a href="README.md">English Version</a>
+  <a href="README.ru.md">Русская версия</a>
 </div>
 
 <div align="center">
