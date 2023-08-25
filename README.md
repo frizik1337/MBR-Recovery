@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/frizik1337/MBR-Recovery/main/img/MBR%20Recovery.png" alt="MBR Recovery">
   <h1>MBR Recovery</h1>
   <p>Create backups and restore MBR with a single click.</p>
-</div>
-
-<div align="center">
+  
   <a href="README.ru.md">Русская версия</a>
 </div>
 
