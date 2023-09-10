@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/frizik1337/MBR-Recovery/main/img/MBR%20Recovery.png" alt="MBR Recovery">
   <h1>MBR Recovery</h1>
+   <img src="https://github.com/frizik1337/MBR-Recovery/assets/124034286/557e1e31-38ca-4a4d-b928-64b0c71bc822" alt="Author Signature">
   <p>Create backups and restore MBR with a single click.</p>
   
   <a href="README.ru.md">Русская версия</a>
@@ -33,8 +33,3 @@ If you find the program useful, you can [support the author](https://www.donatio
 
 To get in touch with the developer (report bugs, suggestions, and more), you can reach out via [email](mailto:frizikcreate@gmail.com) or on Discord: `Frizik1337#6939`
 
-<div align="center">
-  <hr>
-  <p>&copy; Frizik1337, 2023</p>
-  <img src="https://github.com/frizik1337/MBR-Recovery/assets/124034286/557e1e31-38ca-4a4d-b928-64b0c71bc822" alt="Author Signature">
-</div>
