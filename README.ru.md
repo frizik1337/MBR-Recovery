@@ -29,4 +29,4 @@
 
 ## Связь с разработчиком
 
-Для связи с разработчиком (сообщения о багах, предложения и другое), вы можете написать на [электронную почту](mailto:frizikcreate@gmail.com) или в Discord: `Frizik1337#6939`
+Для связи с разработчиком (сообщения о багах, предложения и другое), вы можете написать на [электронную почту](mailto:frizikcreate@gmail.com), в Discord: `Frizik1337#6939`, или в Telegram: [![Telegram](https://img.shields.io/badge/Telegram-@Frizik1337d-2CA5E0?style=flat-square&logo=telegram)](https://t.me/Frizik1337d_bot)
