@@ -1,6 +1,6 @@
 <div align="center">
   <h1>MBR Recovery</h1>
-   <img src="https://github.com/frizik1337/MBR-Recovery/assets/124034286/557e1e31-38ca-4a4d-b928-64b0c71bc822" alt="Author Signature">
+   <img src="https://github.com/frizik1337/MBR-Recovery/blob/main/img/Menu.png" alt="Author Signature">
   <p>Create backups and restore MBR with a single click.</p>
   
   <a href="README.ru.md">Русская версия</a>
