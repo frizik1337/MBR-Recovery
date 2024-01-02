@@ -18,6 +18,7 @@
 Key features:
 - Create a backup of the MBR.
 - Restore the MBR.
+- Protection against damage
 
 **Important:** The program requires .NET Framework version 4.8 to be installed.
 
