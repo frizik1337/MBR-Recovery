@@ -28,5 +28,5 @@ If you find the program useful, you can [support the author](https://www.donatio
 
 ## Contact the Developer
 
-To get in touch with the developer (report bugs, suggestions, and more), you can reach out via [email](mailto:frizikcreate@gmail.com) on Discord: `Frizik1337#6939` or on Telegram: [![Telegram](https://img.shields.io/badge/Telegram-@Frizik1337d-2CA5E0?style=flat-square&logo=telegram)](https://t.me/Frizik1337d_bot)
+To get in touch with the developer (report bugs, suggestions, and more), you can reach out via [email](mailto:support.mbr-recovery.ru ) on Discord: `Frizik1337#6939` or on Telegram: [![Telegram](https://img.shields.io/badge/Telegram-@Frizik1337d-2CA5E0?style=flat-square&logo=telegram)](https://t.me/Frizik1337d_bot)
 
