@@ -24,7 +24,7 @@ Key features:
 
 ## Support the Author
 
-If you find the program useful, you can [support the author](https://www.donationalerts.com/r/frizik1337d) ❤️
+If you find the program useful, you can [support the author](https://clck.ru/38zyQ3) ❤️
 
 ## Contact the Developer
 
